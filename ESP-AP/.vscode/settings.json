@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "wifi_lib.h": "c",
+        "spiffs_lib.h": "c",
+        "xstring": "c"
+    }
+}
